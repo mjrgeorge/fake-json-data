@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "pdf_book_id": 1,
+    "pdf_chapter_number": 1,
+    "pdf_chapter_name": "First Chapter ",
+    "pdf_chapter_lesson_number": 1,
+    "pdf_chapter_lesson_name": "First Lesson Demo",
+    "pdf_from_lesson_page_number": 1,
+    "pdf_to_lesson_page_number": 2,
+    "pdf_from_chapter_page_number": 1,
+    "pdf_to_chapter_page_number": 3
+  },
+  {
+    "id": 2,
+    "pdf_book_id": 1,
+    "pdf_chapter_number": 1,
+    "pdf_chapter_name": "First Chapter ",
+    "pdf_chapter_lesson_number": 2,
+    "pdf_chapter_lesson_name": "second Lesson Demo",
+    "pdf_from_lesson_page_number": 2,
+    "pdf_to_lesson_page_number": 3,
+    "pdf_from_chapter_page_number": 1,
+    "pdf_to_chapter_page_number": 3
+  }
+]

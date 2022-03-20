@@ -1,0 +1,23 @@
+{
+  "text": [
+    {
+      "page_content": "This is first page demo",
+      "book_id": 1,
+      "id": 1,
+      "page_number": 1
+    },
+    {
+      "page_content": "This is second page demo",
+      "book_id": 1,
+      "id": 2,
+      "page_number": 2
+    },
+    {
+      "page_content": "This is third page demo",
+      "book_id": 1,
+      "id": 3,
+      "page_number": 3
+    }
+  ],
+  "picture": []
+}

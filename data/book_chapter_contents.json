@@ -11,6 +11,12 @@
       "book_id": 1,
       "page_number": 2,
       "page_content": "This is second page demo"
+    },
+    {
+      "id": 3,
+      "book_id": 1,
+      "page_number": 3,
+      "page_content": "This is third page demo"
     }
   ],
   "picture": []
